@@ -1,0 +1,19 @@
+
+---
+
+### ✅ `requirements.txt` (for full reproducibility):
+
+```txt
+torch
+torchvision
+transformers
+diffusers[torch]
+lpips
+accelerate
+tqdm
+pillow
+matplotlib
+numpy
+ipython
+nbconvert
+jupyter
